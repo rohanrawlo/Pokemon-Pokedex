@@ -16,4 +16,4 @@ npm install   # first time only
 npm run dev   # → http://localhost:5174/
 ```
 
-Data: https://pokeapi.co — Images: https://raw.githubusercontent.com/PokeAPI/sprites/
+Live link: https://71026b27.pokemon-pokedex-3yc.pages.dev/
