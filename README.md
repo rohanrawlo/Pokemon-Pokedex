@@ -31,7 +31,7 @@ base stats, types, abilities, and more — plus a **Featured Strongest** showcas
 | Hosting | Cloudflare Pages                           |
 
 
-##🖼️ UI
+## 🖼️ UI 
 **Home:** <img width="1900" height="868" alt="Screenshot 2026-09-30 223726" src="https://github.com/user-attachments/assets/b9d8374f-4f72-4a2e-9904-f35b7b53149a" />
 
 
