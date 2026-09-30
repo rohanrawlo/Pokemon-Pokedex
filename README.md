@@ -32,9 +32,9 @@ base stats, types, abilities, and more — plus a **Featured Strongest** showcas
 
 
 ## 🖼️ User Interface
-**Home:** <img width="1900" height="868" alt="Screenshot 2026-09-30 223726" src="https://github.com/user-attachments/assets/b9d8374f-4f72-4a2e-9904-f35b7b53149a" />
-**Search:** <img width="1892" height="862" alt="image" src="https://github.com/user-attachments/assets/f02ac59d-c675-451a-a3ec-451aa0beca9f" />
-**Pokémon Card:** <img width="1892" height="861" alt="image" src="https://github.com/user-attachments/assets/425d72d5-e70c-40ad-94c3-3780c7905f6f" />
+- **Home:** <img width="1900" height="868" alt="Screenshot 2026-09-30 223726" src="https://github.com/user-attachments/assets/b9d8374f-4f72-4a2e-9904-f35b7b53149a" />
+- **Search:** <img width="1892" height="862" alt="image" src="https://github.com/user-attachments/assets/f02ac59d-c675-451a-a3ec-451aa0beca9f" />
+- **Pokémon Card:** <img width="1892" height="861" alt="image" src="https://github.com/user-attachments/assets/425d72d5-e70c-40ad-94c3-3780c7905f6f" />
 
 
 ## 🚀 Run Locally
