@@ -3,7 +3,7 @@
 A fast, modern Pokédex web app to search and explore all **1,025 Pokémon** with official artwork,
 base stats, types, abilities, and more — plus a **Featured Strongest** showcase.
 
-🔴 **Live:** [https://<your-project-name>.pages.dev](https://71026b27.pokemon-pokedex-3yc.pages.dev/)
+🔴 **Live:** [https://<your-project-name>.pages.dev](https://pokemon-pokedex-3yc.pages.dev/)
 <!-- Replace <your-project-name> with the URL Wrangler printed after deploy -->
 
 ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)
